@@ -8,7 +8,7 @@ It is a simple HTML + CSS website design development environment to make life ea
 * SCSS to CSS Compilation
 * Realtime Browsersync
 
-# How To Use:
+#How To Use:
 
 Requirements:
 * NodeJS
